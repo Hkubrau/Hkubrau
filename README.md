@@ -97,16 +97,13 @@ open_to     : Internships, research collaborations, open source
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hkubrau&theme=github-dark-blue&hide_border=true&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
