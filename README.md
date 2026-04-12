@@ -99,9 +99,7 @@ open_to     : Internships, research collaborations, open source
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight" />
 </p>
 
 ---
