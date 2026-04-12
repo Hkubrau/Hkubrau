@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=200&section=header&text=Hatice%20K%C3%BCbra%20%C3%9Clke&fontSize=40&fontColor=58a6ff" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=220&section=header&text=Hatice%20K%C3%BCbra%20%C3%9Clke&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NEU;Computer+Vision+%7C+Graph+Neural+Networks;GCN+%2F+GNN+%2F+CNN+%7C+Image+Processing;Research-driven+%7C+Literature+Review+Enthusiast" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%7C+Computer+Vision+%7C+IoT;Graph+Neural+Networks+%26+Deep+Learning;Research-driven+%7C+Building+Real+Projects" />
 </p>
 
 <p align="center">
@@ -97,22 +99,21 @@ open_to     : Internships, research collaborations, open source
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=radical" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=tokyonight&no-frame=true&no-bg=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=radical&no-frame=true&no-bg=true" />
-</p>
 ---
+
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hkubrau/Hkubrau/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
 ---
