@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Hatice%20K%C3%BCbra%20%C3%9Clke&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20AI%20%26%20Computer%20Vision%20%C2%B7%20Graph%20Neural%20Networks&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/Hkubrau)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=200&section=header&text=Hatice%20K%C3%BCbra%20%C3%9Clke&fontSize=40&fontColor=58a6ff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NEU;Computer+Vision+%7C+Graph+Neural+Networks;GCN+%2F+GNN+%2F+CNN+%7C+Image+Processing;Research-driven+%7C+Literature+Review+Enthusiast" alt="typing" />
@@ -97,17 +97,18 @@ open_to     : Internships, research collaborations, open source
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hkubrau&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hkubrau&theme=radical&no-frame=true&no-bg=true" />
+</p>
 ---
-
 ## 🐍 Contribution Graph
 
 <p align="center">
