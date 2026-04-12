@@ -103,12 +103,13 @@ open_to     : Internships, research collaborations, open source
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkubrau&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Hkubrau&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
+
 ---
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
 </p>
 
 ---
@@ -123,8 +124,6 @@ open_to     : Internships, research collaborations, open source
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
-</p>
+
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer)](https://github.com/Hkubrau)
