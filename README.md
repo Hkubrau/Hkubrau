@@ -107,7 +107,7 @@ open_to     : Internships, research collaborations, open source
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/Hkubrau/Hkubrau/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -121,7 +121,9 @@ open_to     : Internships, research collaborations, open source
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hkubrau&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
+</p>
 
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer)](https://github.com/Hkubrau)
